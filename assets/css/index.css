@@ -35,3 +35,8 @@ body {
         background-color: black;
         color: white;
 }
+@media only screen and (max-width: 640px) {
+        .story-para {
+                font-size: 0.9rem;
+        }
+}
